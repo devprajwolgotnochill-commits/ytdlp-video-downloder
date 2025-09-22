@@ -1,6 +1,10 @@
+# Python cache files
 *.pyc
 __pycache__/
-#
+
+# VS Code settings
 .vscode/
 
-downloaded_videos
+# Folders to ignore
+downloaded_videos/
+GG/
