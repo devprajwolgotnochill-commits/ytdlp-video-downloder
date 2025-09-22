@@ -22,8 +22,7 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-  OOOOOORRRRRRR
-pip install yt-dlp imageio-ffmpeg
+
 
 
 output : --------------------------------------------------------------------------------------------------------------------
