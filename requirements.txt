@@ -1,2 +1,2 @@
 yt-dlp
-ffmpeg-python
+imageio-ffmpeg
