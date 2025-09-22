@@ -21,7 +21,8 @@ A simple Python script to download YouTube videos or playlists with user-selecte
 Install dependencies:
 
 ```bash
-
+pip install -r requirements.txt
+  OOOOOORRRRRRR
 pip install yt-dlp imageio-ffmpeg
 
 
